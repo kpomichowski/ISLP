@@ -1,4 +1,7 @@
 
+./datasets/
+./datasets/*
+
 ../SebastianRaschkaMachineLearning/*
 ../SebastianRaschkaMachineLearning
 ./SebastianRaschkaMachineLearning
