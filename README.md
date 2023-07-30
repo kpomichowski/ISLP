@@ -6,4 +6,4 @@ All provided code was written in Python language using known data science librar
 
 ### Some URLs, you can always visit:
 * [Website of a book can be found here](https://www.statlearning.com/)
-* [My blog using Jupyter Notebooks to show my solutions of exercises presented in a book]() — soon!
+* [My blog using Jupyter Notebooks to show my solutions of exercises presented in a book](https://islp.pomichowski.dev/)
