@@ -1,0 +1,28 @@
+digraph {
+	140506287898560 [label="Feature Index: 0
+Threshold: 0.1932
+Impurity: 2.5042
+Samples: 100"]
+	140506287316736 [label="Feature Index: 0
+Threshold: 0.1360
+Impurity: 0.1022
+Samples: 25"]
+	140506287898560 -> 140506287316736 [label=left]
+	140506289758464 [label="Value: 2.2498
+Samples: 17"]
+	140506287316736 -> 140506289758464 [label=left]
+	140506287384128 [label="Value: 2.5202
+Samples: 8"]
+	140506287316736 -> 140506287384128 [label=right]
+	140506289309312 [label="Feature Index: 0
+Threshold: 0.3705
+Impurity: 1.6596
+Samples: 75"]
+	140506287898560 -> 140506289309312 [label=right]
+	140506260894208 [label="Value: 2.8589
+Samples: 19"]
+	140506289309312 -> 140506260894208 [label=left]
+	140506289115584 [label="Value: 4.0771
+Samples: 56"]
+	140506289309312 -> 140506289115584 [label=right]
+}
